@@ -1,0 +1,20 @@
+.f-flex{
+display: flex;
+height: 100vh;
+justify-content:center;
+align-items:center; 
+}
+.f-flex{
+    background-color: aquamarine;
+}
+.txt{
+ margin: 0% auto;
+ text-align: center;
+ text-transform: uppercase;
+}
+.f-flex{
+    position: relative;
+}
+.form::before{
+    content: 14252;
+}
